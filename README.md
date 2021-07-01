@@ -3,7 +3,8 @@
 ## Description
 <section id='description'>
 Build a full stack JavaScript app that is functionally similar to this: <a href='https://timestamp-microservice.freecodecamp.rocks/' target='_blank'>https://timestamp-microservice.freecodecamp.rocks//</a>.
-  ### Forked From
+ 
+### Forked from
 <a href='https://github.com/freeCodeCamp/boilerplate-project-timestamp/' target='_blank'>https://github.com/freeCodeCamp/boilerplate-project-timestamp/</a>
 
   ### User Stories
